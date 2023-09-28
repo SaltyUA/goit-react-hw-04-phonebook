@@ -1,3 +1,8 @@
 <h1>Phonebook App</h1>
-<p>(GoIT React Homework #3)</p>
-<p>Now it's working with local storage</p>
+<p>(GoIT React Homework #4)</p>
+<h2>Task</h2>
+<p>Refactor code from HW #3 using React-hooks</p>
+
+
+
+
